@@ -1,1 +1,0 @@
-(this["webpackJsonpmoderate-react-ts"]=this["webpackJsonpmoderate-react-ts"]||[]).push([[9],{1668:function(t,e,s){"use strict";s.r(e);var c=s(0),i=s(11);e.default=function(){return Object(c.useEffect)((function(){window.g_microAppsStart()}),[]),Object(i.jsx)("div",{id:"sub-View-vue"})}}}]);
